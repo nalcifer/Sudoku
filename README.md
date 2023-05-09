@@ -1,1 +1,2 @@
 # Sudoku
+Architecture MVC
